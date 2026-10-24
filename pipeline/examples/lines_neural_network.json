@@ -1,0 +1,14 @@
+{"lines": [
+ "Your brain has about 86 billion neurons. AI copied the idea... using nothing but numbers.",
+ "This is a neural network. Let's teach one to spot a cat.",
+ "A photo goes in as millions of tiny numbers: pixels.",
+ "Each artificial neuron takes in numbers, multiplies each one by a weight, and adds them up.",
+ "If the total is big enough, it fires, passing a signal to the next layer.",
+ "Early layers spot simple edges. Deeper layers combine them into ears, eyes, and whiskers.",
+ "But at first, the weights are random. So it guesses... toaster.",
+ "Now comes the magic: training.",
+ "We measure how wrong it was, then nudge every weight a tiny bit to shrink the error.",
+ "This is called backpropagation. Repeat it millions of times, and the network learns.",
+ "Cat. 98 percent.",
+ "Nobody programmed the rules. It found them... by making mistakes."],
+ "spoken": {"86": "eighty six", "AI": "a i", "idea...": "idea", "guesses...": "guesses", "them...": "them", "98": "ninety eight"}}
